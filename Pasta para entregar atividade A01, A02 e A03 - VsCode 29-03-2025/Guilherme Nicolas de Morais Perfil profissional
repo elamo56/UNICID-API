@@ -1,0 +1,41 @@
+<html>
+         <head>
+        <meta charset="UTF-8">
+           </head>
+             <body>
+                 <h1>Perfil Profissional</h1>
+                <hr>
+                <h2>Sobre mim</h2>
+                     <p><b>Guilherme Nicolas de Morais</b><br>
+                         <hr>
+                     <img  src="https://i.postimg.cc/9MchVjyn/Guilherme-foto.png"width="180" height="200" alt="Foto de Perfil"><br>
+ <!..Usei o site postimg para hospedar minha imagem online, para ser acessada de qualquer dispositivo...!>
+                <hr>
+                      <b><i>Pet Groomer</i><br></b>
+                         Estudante de analise e desenvolvimento de Sistemas, 26 anos,
+                         com experiencia em design gráfico, amante de artes <br>
+               <hr>
+               <h2>Habilidades</h2>
+               <ul>
+                     <li><s>C#</s></li>
+                     <li><s>HTML5#</s></li>
+                     <li><s>C</s></li>
+                     <li><s>Java Script</s></li>
+                     <li>Inglês </li>
+                     <li>Modelagem 3D </li>
+                     <li>UV mapping </li>
+                     <li>Retopologia </li>
+                     <li>Rigging </li>
+
+
+               </ul>
+                     
+
+               </p>
+               <hr>
+               <p><u>Disponivel para oportunidades!</u></p>
+
+                        
+<!--Pagina Profissional destinada a apresentação para empresas-->
+                 </body>
+</html>
